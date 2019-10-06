@@ -15,7 +15,7 @@ variables:
   webAppName: 'JavaPipeline-petclinic'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'JavaPipeline-petclinic-dev'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
