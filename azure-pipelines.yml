@@ -12,7 +12,7 @@ variables:
   azureSubscription: '516a89bc-17c1-4abb-b71e-1d3e6df2399a'
   
   # Web app name
-  webAppName: 'JavaPipeline-petclinic'
+  webAppName: 'Java-App-Service-Plan'
 
   # Environment name
   environmentName: 'JavaPipeline-petclinic-dev'
